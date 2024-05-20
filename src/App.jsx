@@ -31,7 +31,7 @@ function App() {
   const resetFilter = () => {
     // 여기에 코드를 작성하세요.
   };
-
+  console.log("test");
   return (
     <div>
       <h1>학생 목록</h1>
